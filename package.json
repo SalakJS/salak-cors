@@ -1,0 +1,36 @@
+{
+  "name": "salak-cors",
+  "version": "1.0.0",
+  "description": "cors for salak or koa",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint && jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salakjs/salak-cors.git"
+  },
+  "keywords": [
+    "cors",
+    "koa",
+    "salak"
+  ],
+  "author": "wengeek <wenwei897684475@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/salakjs/salak-cors/issues"
+  },
+  "homepage": "https://github.com/salakjs/salak-cors#readme",
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "jest": "^23.6.0",
+    "salak": "^2.0.0-beta.17",
+    "supertest": "^3.3.0"
+  }
+}
