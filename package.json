@@ -1,6 +1,6 @@
 {
   "name": "salak-cors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cors for salak or koa",
   "main": "index.js",
   "scripts": {
